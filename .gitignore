@@ -1,3 +1,5 @@
+src/data/activities.db
+src/__pycache__/
 # Compiled source #
 ###################
 *.com
